@@ -51,10 +51,13 @@ Replace "YOUR_BOT_TOKEN_HERE" in split_bill_bot.py with your token.
 
 ### 4️⃣ Run the Bot
 
+bash:
+
 python split_bill_bot.py
 
+---
 
-💡 Bot Commands
+## 💡Bot Commands
 
 | Command                       | Description                    |
 | ----------------------------- | ------------------------------ |
