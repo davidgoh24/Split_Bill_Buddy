@@ -3,6 +3,9 @@
 A Telegram bot to easily split bills with **GST** and **Service Charge**, supporting both **SGD 🇸🇬** and **MYR 🇲🇾**.  
 Perfect for dining out with friends — no more messy mental math.
 
+Try it on Telegram! Just add @Splitbillcalculator_bot to your groups and give admin permission or just chat with it :)
+
+
 ---
 
 ## ✨ Features
